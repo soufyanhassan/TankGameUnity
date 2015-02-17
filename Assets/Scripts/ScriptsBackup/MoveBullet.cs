@@ -7,10 +7,6 @@ public class MoveBullet : MonoBehaviour {
     private float lifeTime = 0f;
     public GameObject explosionPrefab;
 	// Use this for initialization
-	void Start () {
-	
-	}
-	
 	// Update is called once per frame
 	void Update () {
         float delta = Time.deltaTime;

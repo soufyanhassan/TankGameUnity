@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\RotateTurret.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\UNI\Assets\Scripts\CollectableManager.cs">
     <Files>
-      <File FileName="Assets\Scripts\RotateTurret.cs" Line="6" Column="1" />
-      <File FileName="Assets\Scripts\MoveTank.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\UNI\Assets\Scripts\CollectableManager.cs" Line="37" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

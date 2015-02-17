@@ -10,7 +10,8 @@ public class BaseRotateTurret : MonoBehaviour {
 	
     // Use this for initialization
 	protected virtual void Start () {
-        bool turretFound = false;
+        
+		bool turretFound = false;
         transforms = gameObject.GetComponentInChildren<Transform>();
         foreach (Transform t in transforms)
         {
